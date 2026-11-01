@@ -1,6 +1,6 @@
 #  Chat Logger  
 
-**Baseline:** `alccurr-0.3.9-20261026-2241-title-edit-lock-all.zip`
+if u are using claude.ai webpage , in content.js   ,change the "liveText||mousedownText"  , into just "mousedownText".
 
 ## 1. What this extension does
 
