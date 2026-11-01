@@ -1,6 +1,8 @@
 #  Chat Logger  
 
-if u are using claude.ai webpage , in content.js   ,change the "liveText||mousedownText"  , into just "mousedownText".
+if u are using claude.ai webpage or other site: , if only the text can be fetched when pressing  'enterkey' but not by clicking the 'send' button, 
+
+try solve: in content.js   ,change the "liveText||mousedownText"  , into just "mousedownText".
 
 ## 1. What this extension does
 
